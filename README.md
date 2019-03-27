@@ -1,5 +1,3 @@
 # sfhelpers
 
-Roses blue
-red Violets
-Ruby black
+The meaning of life is 42.
